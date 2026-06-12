@@ -10,6 +10,6 @@ import Foundation
 extension UserDefaults {
     
     static var shared: UserDefaults {
-        UserDefaults(suiteName: "group.nl.nielsmouthaan.backup-status")!
+        UserDefaults(suiteName: "group.com.mark-clayton.backup-status")!
     }
 }

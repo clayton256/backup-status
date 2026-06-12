@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.nl.nielsmouthaan.backup-status</string>
+		<string>group.com.mark-clayton.backup-status</string>
 	</array>
 </dict>
 </plist>
